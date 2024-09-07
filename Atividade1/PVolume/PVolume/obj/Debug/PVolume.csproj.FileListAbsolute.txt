@@ -1,0 +1,5 @@
+C:\Users\0030482413029\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.AssemblyReference.cache
+C:\Users\0030482413029\source\repos\PVolume\PVolume\obj\Debug\PVolume.Form1.resources
+C:\Users\0030482413029\source\repos\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+C:\Users\0030482413029\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+C:\Users\0030482413029\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.CoreCompileInputs.cache
